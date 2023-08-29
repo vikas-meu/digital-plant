@@ -1,0 +1,24 @@
+this is to describe to you the pining for this project please use this pining description to make your project work
+
+  
+Arduino Pin::::
+---------------------------------------------------------------
+OLED Display (I2C):---
+---------------------------------------------------------------
+SDA (A4)
+SCL (A5)
+------------------------------------  
+LDR Sensor	Digital pin_ no. --->  2
+Touch Sensor	Digital pin no. --->  3
+Moisture Sensor (A0)	Analog pin in the arduino ------>  A0
+
+ NOTE:::::::::::::::------------------- 
+ # ____that this chart assumes you're using the default I2C pins for communication with the OLED display,
+which are A4 (SDA) and A5 (SCL) on most Arduino boards. Make sure your Arduino board supports I2C and that your OLED display is connected to these pins if you want to use I2C communication.
+Additionally, ensure that your sensors and display are connected correctly to the specified pins on your Arduino board. If you have any other components or specific wiring configurations,
+you should include those details in your project documentation or comments in the code for clarity.
+
+
+
+
+
